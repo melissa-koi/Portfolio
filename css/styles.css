@@ -276,3 +276,7 @@
 .lang{
     color:black;
 }
+
+.link:hover{
+    color: blue;
+}
