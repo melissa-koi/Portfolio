@@ -272,3 +272,7 @@
 .formBox .inputBox input[type="submit"]:hover{
     background-color: #ff568c
 }
+
+.lang{
+    color:black;
+}
