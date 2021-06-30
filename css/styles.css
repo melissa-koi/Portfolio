@@ -283,13 +283,10 @@
 
 @media only screen and (max-width: 600px){
     .port{
-        margin-bottom: 15rem;
-    }
-    .contact{
-        margin-top: 35px;
+        margin-bottom: 7rem;
     }
     .projects{
-        margin-bottom: 100px;
+        margin-bottom: 5rem;
     }
     /* .contact-form{
         position: absolute;
