@@ -280,3 +280,12 @@
 .link:hover{
     color: blue;
 }
+
+@media (max-width: 991px){
+    .port{
+        margin-bottom: 8rem;
+    }
+    .intro{
+        padding-left: 0px;
+    }
+}
